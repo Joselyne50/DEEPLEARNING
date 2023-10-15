@@ -1,1 +1,7 @@
-print('this is the fake file that I am creating to make sure I can access the new repo I created')
+class mainclass:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+
+k = """this is the message to make sure that there is a change in the files thar """
